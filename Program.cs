@@ -1,7 +1,7 @@
 ﻿using System.Numerics;
 using System.Text;
 using System.Xml.Serialization;
-
+//test
 namespace A2._2
 {
     internal class Program
